@@ -1,3 +1,3 @@
 "# SegmentAndTrack"
-
+testting the branch
 In this project we use a method to accurately segment and track clathrin in low-resolution noisy images to help study the process of clathrin mediated endocytosis. It is often required to segment and track minute particles in a densely populated environment in many biological processes. This paper proposes a method that segments and tracks minute point-sized particles in low-resolution microscopy images using Laplacian of Gaussian filter. The images are first de-noised using a combination of gaussian filter. A multiple hypothesis-based framework is designed using the Kalman filter to develop the tracking algorithm and handle the appearing and disappearing of clathrin at different intervals of time. The algorithm can be further extended using different features like area, direction of movement of cells to fit the nature of the process taking place.
